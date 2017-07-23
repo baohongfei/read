@@ -5,4 +5,6 @@
 ## 第2部分 Web 中的 Spring
 ###  第5章 构建 Spring Web 应用程序  
 Spring MVC Model-View-Controller  
-`DispatcherServlet`
+`DispatcherServlet`  
+HTTP 请求的处理流程  
+实现一个 Spring MVC Demo  
